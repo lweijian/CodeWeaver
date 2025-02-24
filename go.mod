@@ -1,3 +1,3 @@
-module github.com/tesserato/CodeWeaver
+module github.com/lweijian/CodeWeaver
 
 go 1.23

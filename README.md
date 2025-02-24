@@ -4,7 +4,7 @@
 # CodeWeaver: Generate a Markdown Document of Your Codebase Structure and Content
 
 CodeWeaver is a command-line tool designed to weave your codebase into a single, easy-to-navigate Markdown document. It recursively scans a directory, generating a structured representation of your project's file hierarchy and embedding the content of each file within code blocks. This tool simplifies codebase sharing, documentation, and integration with AI/ML code analysis tools by providing a consolidated and readable Markdown output.
-The output for the current repository can be found [here](https://github.com/tesserato/CodeWeaver/blob/main/codebase.md).
+The output for the current repository can be found [here](https://github.com/lweijian/CodeWeaver/blob/main/codebase.md).
 
 # Key Features
 
@@ -16,9 +16,9 @@ The output for the current repository can be found [here](https://github.com/tes
 
 # Installation
 
-If you have Go installed, run `go install github.com/tesserato/CodeWeaver@latest`to install the latest version of CodeWeaver or `go install github.com/tesserato/CodeWeaver@vX.Y.Z` to install a specific version.
+If you have Go installed, run `go install github.com/lweijian/CodeWeaver@latest`to install the latest version of CodeWeaver or `go install github.com/lweijian/CodeWeaver@vX.Y.Z` to install a specific version.
 
-Alternatively, download the appropriate pre built executable from the [releases page](https://github.com/tesserato/CodeWeaver/releases).
+Alternatively, download the appropriate pre built executable from the [releases page](https://github.com/lweijian/CodeWeaver/releases).
 
 If necessary, make the `codeweaver` executable by using the `chmod` command:
 
@@ -89,4 +89,4 @@ CodeWeaver is released under the [MIT License](LICENSE). See the `LICENSE` file 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=tesserato/CodeWeaver&type=Date)](https://star-history.com/#tesserato/CodeWeaver&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=lweijian/CodeWeaver&type=Date)](https://star-history.com/#lweijian/CodeWeaver&Date)
